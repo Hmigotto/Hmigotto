@@ -9,7 +9,7 @@
 <br>
 <br>
 <div align="center" >
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hmigotto)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 <br>
 <br>
