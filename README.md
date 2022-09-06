@@ -40,7 +40,7 @@
 
 <br>
 
-### Fun Fact 📫
+### Contact me 📫
 - hmigotto@gmail.com
 
 <img align='right' height='140' style="margin-left:20px" src='assets/Eugotto.gif' alt='Lesgo'>
