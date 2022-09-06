@@ -8,14 +8,17 @@
 
 <br>
 <br>
+
 <div align="center" >
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hmigotto&langs_count=20&show_icons=true&locale=en&layout=compact" alt="Henrique Migotto" />
-  
-<br>
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hmigotto&show_icons=true&locale=en" alt="Henrique Migotto" />
-
  </div>
+ 
+ <br>
+ 
+ <div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hmigotto&show_icons=true&locale=en" alt="Henrique Migotto" />
+ </div>
+ 
 <br>
 <br>
 
@@ -23,12 +26,12 @@
 
 ### : Studies 📖
 - I really like the developer community and I have a lot of fun learning new things about my profession, I'm always reading a book or taking a course on something related to development.
-- 
+
 <br>
 
 ### : Fun Fact 🎲
 - My two favorite things to have fun are playing Touhou and Tabletop rpgs
-- 
+
 <br>
 
 ### : Fun Fact 📫
