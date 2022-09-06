@@ -24,7 +24,7 @@
 
 ### Knowledge 🧠
 <p align="center">
-  <a href="https://skillicons.dev" align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,cpp,py,css,c,vim,neovim,dart,bots,eclipse,firebase,flutter,github,html,java,js,kotlin,linux,nodejs,powershell,react,sqlite,unity,unreal,visualstudio,vscode" />
   </a>
 </p>
