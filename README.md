@@ -22,7 +22,13 @@
 <br>
 <br>
 
-<img align='right' height='140' style="margin-left:20px" src='assets/Eugotto.gif' alt='Lesgo'>
+### Knowledge 🧠
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,cpp,py,css,docker,c,vim,neovim,dart,bots,eclipse,firebase,flutter,github,html,java,js,kotlin,linux,nodejs,powershell,react,sqlite,unity,unreal,visualstudio,vscode" />
+  </a>
+</p>
+
 
 ### Studies 📖
 - I really like the developer community and I have a lot of fun learning new things about my profession, I'm always reading a book or taking a course on something related to development.
@@ -36,3 +42,5 @@
 
 ### Fun Fact 📫
 - hmigotto@gmail.com
+
+<img align='right' height='140' style="margin-left:20px" src='assets/Eugotto.gif' alt='Lesgo'>
