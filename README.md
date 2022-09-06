@@ -1,6 +1,6 @@
 ### Working on it !
 
-![image](https://user-images.githubusercontent.com/61739367/188719986-c8bdbc93-6eae-4e71-97ed-6b1655a23c0c.png)
+![image](https://github.com/Hmigotto/Hmigotto/blob/main/assets/Eugotto.gif?raw=true)
 
 - 🔭 I’m currently working on this read me file LMAO
 - 🌱 I’m currently learning x86 and react, to many books for birthday man, what else can i say
