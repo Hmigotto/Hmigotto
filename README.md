@@ -36,7 +36,7 @@
 <br>
 
 ### Fun Fact 🎲
-- My two favorite things to have fun are playing Touhou and Tabletop rpgs
+- My two favorite entertainments are running and playing tabletop roleplaying games.
 
 <br>
 
