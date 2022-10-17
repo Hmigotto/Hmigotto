@@ -4,7 +4,7 @@
  
  </div>
 
-### Hello, I'm Henrique Migotto, I'm currently studying Next.Js while reading 3 books I bought about the C language
+### Hello, I'm Henrique Migotto, I'm currently studying low level programming while reading 3 books I bought about the C language
 
 <br>
 <br>
