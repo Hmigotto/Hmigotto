@@ -25,7 +25,7 @@
 ### Knowledge 🧠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,go,rust,rocket,wasm,bash,cpp,py,css,c,vim,neovim,dart,ruby,rails,bots,eclipse,firebase,flutter,github,html,java,spring,js,kotlin,linux,nodejs,nextjs,powershell,react,sqlite,unity,unreal,visualstudio,vscode, docker, kubernetes, mongodb, gcp" />
+    <img src="https://skillicons.dev/icons?i=git,go,rust,rocket,wasm,bash,cpp,py,django,css,bootstrap,c,vim,neovim,dart,ruby,rails,bots,eclipse,firebase,flutter,github,html,java,spring,js,kotlin,linux,nodejs,nextjs,powershell,react,sqlite,unity,unreal,visualstudio,vscode, docker, kubernetes, mongodb, gcp, mysql, sqlite" />
   </a>
 </p>
 
