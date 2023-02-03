@@ -7,20 +7,6 @@
 ### Hello, I'm Henrique Migotto, and I am currently delving into the world of Go programming. I am drawn to this language because of its harmonious blend of simplicity and efficiency. While I do have a fondness for Rust, I find that Go is easier to understand and work with at present. Rest assured, I will still be utilizing Rust for WebAssembly projects. As a developer, I am constantly driven by my curious nature and a desire to know everything in detail. This is why I plan to undertake more public projects here on GitHub in the near future, as I continue my journey of learning and discovery.
 
 <br>
-<br>
-
-<div align="center" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hmigotto&langs_count=20&show_icons=true&locale=en&layout=compact" alt="Henrique Migotto" />
- </div>
- 
- <br>
- 
- <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hmigotto&show_icons=true&locale=en" alt="Henrique Migotto" />
- </div>
- 
-<br>
-<br>
 
 ### Knowledge 🧠
 <p align="center">
